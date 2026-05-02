@@ -15,5 +15,8 @@
 5.Which customers have the highest spending?
 6.How many repeat customers are there?
 
-#data set
+# data set
 <a href="https://github.com/harsha14324-KA/customer-shopping-behavior-/blob/main/shopping%20behavior.csv">shopping data</a>
+
+# cleaning data in python
+<a href="https://github.com/harsha14324-KA/customer-shopping-behavior-/blob/main/miniproject.py">data cleaning</a>
