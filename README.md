@@ -16,3 +16,4 @@
 6.How many repeat customers are there?
 
 #data set
+<a href="https://github.com/harsha14324-KA/customer-shopping-behavior-/blob/main/shopping%20behavior.csv">shopping data</a>
